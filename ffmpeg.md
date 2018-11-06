@@ -10,4 +10,6 @@ https://github.com/phamquy/FFmpeg-tutorial-samples
 
 https://blogs.gentoo.org/lu_zero/2016/03/29/new-avcodec-api/
 
+https://blogs.gentoo.org/lu_zero/2015/03/23/decoupling-an-api/
+
 
